@@ -25,7 +25,8 @@ public class GradientDrawer : PropertyDrawer {
             if (guiEvent.type == EventType.MouseDown && guiEvent.button == 0) {
                 if (textureRect.Contains(guiEvent.mousePosition)) {
                     // open editor window
-                    EditorWindow.GetWindow<GradientEditor>();
+                    GradientEditor window = EditorWindow.GetWindow<GradientEditor>();
+                    window.SetGradient(gradient);
                 }
             }
         }

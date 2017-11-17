@@ -5,5 +5,6 @@ using UnityEngine;
 public class Test : MonoBehaviour {
 
     public CustomGradient myGradient;
+    public CustomGradient myNextGradient;
 
 }

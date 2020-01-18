@@ -2,7 +2,7 @@
 
 Contains project files for Unity 5 Custom Editor Tools
 
-	A simple C# project that allowed me to learn how to use Unity's custom editor to make tools for my new undisclosed VR project. I 	 was intrigued by how easy Unity makes it to create your own buttons and editor scripts so I decide to look up some tutorials on 	 how to make some useful Editor tools.
+	A simple C# project that allowed me to learn how to use Unity's custom editor to make tools for my new undisclosed VR project. I was intrigued by how easy Unity makes it to create your own buttons and editor scripts so I decide to look up some tutorials on how to make some useful Editor tools.
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/YouTube_Logo.svg/512px-YouTube_Logo.svg.png)
 
